@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\AcumenLogs;
+namespace AcumenLogs\Traits;
 
 trait AcumenTraceHelper
 {
